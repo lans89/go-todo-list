@@ -1,0 +1,10 @@
+db:
+  username: postgres
+  password: xmlLans89
+  server: localhost
+  port: 5432
+  databasename: todolistdb
+  maxOpenConnections: 25
+  maxIdleConnections: 5
+  maxLifetimeMin: 5
+  maxIdleTimeMin: 10 
